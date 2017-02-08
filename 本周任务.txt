@@ -1,0 +1,7 @@
+1.网页排版布局
+2.git使用
+3.服务器环境配置
+4.zend framework框架
+5.图像处理 openSlide.org
+
+./uninstall.sh
